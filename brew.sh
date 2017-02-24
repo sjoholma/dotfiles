@@ -84,6 +84,7 @@ brew install node # this installs npm too using the recommended method
 #brew install vbindiff
 #brew install webkit2png
 #brew install zopfli
+brew install mas
 
 # Remove outdated versions from the cellar.
 brew cleanup
