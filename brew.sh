@@ -72,6 +72,7 @@ brew install git
 #brew install lynx
 brew install ncdu # find where your diskspace went
 brew install node # this installs npm too using the recommended method
+brew install watchman # Facebook file system watcher
 #brew install p7zip
 #brew install pigz
 #brew install pv
