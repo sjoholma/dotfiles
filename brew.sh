@@ -67,6 +67,7 @@ brew install dark-mode
 #brew install exiv2
 brew install git
 brew install python
+brew install tree
 #brew install git-lfs
 #brew install imagemagick --with-webp
 #brew install lua
